@@ -1,0 +1,4 @@
+AppData/
+.vscode/
+__pychache__/
+*.pkl
